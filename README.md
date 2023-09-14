@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tharik10
-- 👀 I’m interested in Software Developer 
-- 🌱 I’m currently learning Coding 
+- 👀 I’m interested in ......
+- 🌱 I’m currently learning .....
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.instagram.com/p/CNRFH8AB_yO/?igshid=YmMyMTA2M2Y=
 
