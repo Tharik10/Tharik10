@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Tharik10
-- 👀 I’m interested in ......
-- 🌱 I’m currently learning .....
+- 👋 Hi, I’m ABDUL THARIK M 
+- 👀 I’m interested in Development 
+- 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me https://www.instagram.com/p/CNRFH8AB_yO/?igshid=YmMyMTA2M2Y=
+- 📫 How to reach me
+- 9043120195
 
 <!---
 Tharik10/Tharik10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
